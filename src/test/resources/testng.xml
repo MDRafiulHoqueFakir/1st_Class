@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/Rafiul/Automation/Login_Link">
     <packages>
-        <package name="com.parabank.parasoft.*"></package>
+        <package name="com.parabank.parasoft.testcases.*"></package>
     </packages>
     </test>
 </suite>
